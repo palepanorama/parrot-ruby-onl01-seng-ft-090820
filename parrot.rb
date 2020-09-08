@@ -5,5 +5,7 @@ def parrot
   "Squawk!"
 end
 
+parrot("Pretty bird!")
+
 
 
